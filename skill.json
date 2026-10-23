@@ -1,0 +1,11 @@
+{
+  "name": "genpark-multi-tenant-workspace-isolation-and-tenant-leak-detector-skill",
+  "version": "1.0.0",
+  "description": "Detects path traversal breakouts and cross-tenant context leaks to ensure deterministic workspace isolation",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "linkedin_page": "https://www.llinkedin.com/company/92955550",
+  "license": "MIT"
+}
